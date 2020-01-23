@@ -24,8 +24,8 @@ Result
 We got accuracy around 69% which is not great but we also need to consider the simplicity of the model used. We are not focusing on the model accuracy rather understanding the word embedding method. In our future assignments we will be working on optimizing the models . Let's see the charts to understand how the accuracy and loss varied over epochs .
 
 
-![](Accuracy.png)
-![](loss.png)
+![](images/Accuracy.png)
+![](images/loss.png)
 
 Summary
 ---------
